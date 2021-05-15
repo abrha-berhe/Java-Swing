@@ -18,6 +18,7 @@ import java.time.Period;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 
+// This class is a controller that orchastrates View and Models
 public class PayrollManager {
 
     ArrayList<Employee> employees = new ArrayList<>();
